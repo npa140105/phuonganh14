@@ -1,0 +1,6 @@
+{
+  "name": "BobaFlow 12",
+  "description": "茶研所 BobaFlow 12 - 具備系統登入封頁安全防護、雲端資料庫權限審查、密碼自主修訂、BOM庫存核銷、POS收銀與VIP會員集點系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
